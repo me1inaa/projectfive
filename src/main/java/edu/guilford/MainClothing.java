@@ -54,6 +54,8 @@ public class MainClothing {
     System.out.println("\nThe most expensive clothing is: " + mostExpensive.getDescription());
     mostExpensive = pants2;
     System.out.println("The most expensive clothing is: " + mostExpensive.getDescription());
+    mostExpensive = socks1;
+    System.out.println("The most expensive clothing is: " + mostExpensive.getDescription());
 
 
     }
