@@ -1,0 +1,11 @@
+Sample output
+Here are the clothes sorted by brand: 
+These socks are White Adidas socks made of Polyester with Short legs.
+These pants are Black American Eagle pants made of Denim with Long legs.
+These pants are Blue Levis pants made of Denim with Long legs.
+These socks are Black Nike socks made of Cotton with Short legs.
+These pants are Blue Old Navy pants made of Cotton with Short legs.
+This shirt is a Blue Pacsun shirt made of Silk with Short sleeves.
+This shirt is a Green Polo shirt made of Wool with Short sleeves.
+These socks are White Puma socks made of Cotton with Short legs.
+This shirt is a Red Target shirt made of Cotton with Long sleeves.
